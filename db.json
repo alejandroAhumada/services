@@ -1,1 +1,14 @@
-
+{
+  "id_route": "1",
+  "address_route": "camino del agua 4211, puente alto",
+  "product_list": [
+    {
+      "id": "a1b2c3",
+      "name": "Chocolate con maní 40 g",
+      "brand_name": "Muibon",
+      "ean": "7802800556021",
+      "image": "https://santaisabel.vteximg.com.br/arquivos/ids/175159/Chocolate-con-mani-40-g.jpg?v=637584379895100000",
+      "quantity": 2
+    }
+  ]
+}
